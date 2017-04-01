@@ -33,14 +33,6 @@ SciPy >= 0.7. Tested with version 0.14.0, 0.12.0, 0.11.0, 0.10.1, 0.9.0, 0.8.0, 
 
 Windows users are well advised to try the Enthought distribution, which conveniently includes Python & NumPy & SciPy in a single bundle, and is free for academic use.
 
-## Install Python and easy_install
-This package uses setuptools, which is a common way of installing python modules. To install in your home directory, use:
-
-python setup.py install --user
-To install for all users on Unix/Linux:
-
-sudo python setup.py install
-For more detailed installation instructions, see the web page http://nimfa.biolab.si
 Check what version of Python you have with:
 
 python --version
