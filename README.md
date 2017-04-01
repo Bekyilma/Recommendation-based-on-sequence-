@@ -9,7 +9,7 @@ Input is a sequences of items that users have done in the past. For example, ent
 Item2vec requires gensim an open-source vector space modeling and topic modeling toolkit, implemented in the Python
 programming language. I
 
-#Quick install
+# Quick install
 
 Run in your terminal:
 
