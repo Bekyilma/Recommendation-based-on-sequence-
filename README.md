@@ -26,7 +26,9 @@ In case that fails, make sure you’re installing into a writeable location (or 
 Gensim is known to run on Linux, Windows and Mac OS X and should run on any other platform that supports Python 2.6+ and NumPy. Gensim depends on the following software:
 
 Python >= 2.6. Tested with versions 2.6, 2.7, 3.3, 3.4 and 3.5. Support for Python 2.5 was discontinued starting gensim 0.10.0; if you must use Python 2.5, install gensim 0.9.1.
+
 NumPy >= 1.3. Tested with version 1.9.0, 1.7.1, 1.7.0, 1.6.2, 1.6.1rc2, 1.5.0rc1, 1.4.0, 1.3.0, 1.3.0rc2.
+
 SciPy >= 0.7. Tested with version 0.14.0, 0.12.0, 0.11.0, 0.10.1, 0.9.0, 0.8.0, 0.8.0b1, 0.7.1, 0.7.0.
 
 Windows users are well advised to try the Enthought distribution, which conveniently includes Python & NumPy & SciPy in a single bundle, and is free for academic use.
