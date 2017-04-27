@@ -64,5 +64,5 @@ easy_install gensim[distributed]
 
 
 
-
+## Project report can be found here https://www.researchgate.net/publication/316527587_Recommendation_based_on_sequence_Item2vec
 
