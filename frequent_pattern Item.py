@@ -14,7 +14,7 @@ def load_sequence(from_path):
 
 
 def main():
-    load_sequence('/home/beki/Documents/2nd Year/BD & DM Project/retail_dataset.csv')
+    load_sequence('/your directory/retail_dataset.csv')
     # split patterns to train_patterns and test_patterns
 
     train_patterns = np.random.choice(patterns, np.floor(len(patterns) * 0.8))
