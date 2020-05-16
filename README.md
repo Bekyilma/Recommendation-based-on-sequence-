@@ -67,3 +67,13 @@ easy_install gensim[distributed]
 ## Project report can be found here 
 https://www.researchgate.net/publication/316527587_Recommendation_based_on_sequence_Item2vec
 
+### Citation 
+@article{aberarecommendation,
+  title={Recommendation based on sequence},
+  author={Abera, Yilma Bereket},
+  year = {2017},
+  month = {02},
+  url = {https://www.researchgate.net/publication/316527587_Recommendation_based_on_sequence_ITEM2VEC}
+  doi = {10.13140/RG.2.2.25358.97601}
+}
+}
