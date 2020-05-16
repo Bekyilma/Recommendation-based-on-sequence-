@@ -71,7 +71,7 @@ Citation
 ========
 ```bibtex
 @article{aberarecommendation,
-  title={Recommendation based on sequence},
+  title={Recommendation based on sequence (ɪᴛᴇᴍ2ᴠᴇᴄ)},
   author={Abera, Yilma Bereket},
   year = {2017},
   month = {02},
