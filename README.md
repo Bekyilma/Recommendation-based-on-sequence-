@@ -1,4 +1,4 @@
-# (Item2vec) Recommendation-based-on-sequence-
+# Recommendation-based-on-sequence (Item2vec) 
  
 This is an advanced recommendation algorithm that proposes items to the user based on the sequences  of items they buy or interact with previously. People do not always buy things randomly but they buy them in some order. For example, you first buy the motorbike and then the helmet. Or you first see the Harry Potter 1 and then the Harry Potter 2.
 
